@@ -1,4 +1,4 @@
 # Jack Danger
 
-### Current Status: Leading platform at LaunchDarkly
+### Current Status: VP of Engineering at LaunchDarkly
 
